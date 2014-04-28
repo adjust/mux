@@ -1,0 +1,11 @@
+{
+	"env": [
+		{
+			"name": "development",
+			"packages": [
+                { "name": "github.com/adjust/context", "branch": "master" }
+            ]
+		}
+	],
+	"testdir": "./test"
+}
